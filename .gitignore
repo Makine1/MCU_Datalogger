@@ -10,3 +10,4 @@ MCU Datalogger Gerbers/
 # MACOS gereksiz şeyleri
 .DS_Store
 
+MCU_Datalogger.kicad_pro.lck
