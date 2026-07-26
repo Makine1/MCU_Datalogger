@@ -6,3 +6,6 @@ MCU Datalogger Backups/
 
 # Gerber çıktıları
 MCU Datalogger Gerbers/
+
+# MACOS gereksiz şeyleri
+.DS_Store
