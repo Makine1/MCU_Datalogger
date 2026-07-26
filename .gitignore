@@ -9,3 +9,5 @@ MCU Datalogger Gerbers/
 
 # MACOS gereksiz şeyleri
 .DS_Store
+
+.history/
