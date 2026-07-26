@@ -1,0 +1,8 @@
+# KiCad cache
+fp-info-cache
+
+# Backup klasörü
+MCU Datalogger Backups/
+
+# Gerber çıktıları
+MCU Datalogger Gerbers/
