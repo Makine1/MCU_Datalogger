@@ -7532,8 +7532,8 @@
 		)
 	)
 	(sheet
-		(at 131.826 157.48)
-		(size 39.624 37.084)
+		(at 57.912 97.028)
+		(size 59.69 58.674)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -7548,7 +7548,7 @@
 		)
 		(uuid "7a1c2b8e-be48-4974-b047-b6779c90bb6e")
 		(property "Sheetname" "Connectors"
-			(at 131.826 156.7684 0)
+			(at 57.912 96.3164 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7559,7 +7559,7 @@
 			)
 		)
 		(property "Sheetfile" "Connectors.kicad_sch"
-			(at 131.826 195.1486 0)
+			(at 57.912 156.2866 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7567,6 +7567,166 @@
 					(size 1.27 1.27)
 				)
 				(justify left top)
+			)
+		)
+		(pin "D2" bidirectional
+			(at 117.602 100.33 0)
+			(uuid "e11e720d-0e15-423b-95cd-5dd4136dc389")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "D3" bidirectional
+			(at 117.602 103.886 0)
+			(uuid "79aed403-4800-4571-9794-25809d8fc7d3")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "D4" bidirectional
+			(at 117.602 106.68 0)
+			(uuid "691d0bdc-afc6-49d0-beac-80a9ee8fcc89")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "D5" bidirectional
+			(at 117.602 109.22 0)
+			(uuid "91c479a7-f703-4067-8c58-627ba2ab9821")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "D6" bidirectional
+			(at 117.602 112.522 0)
+			(uuid "aac07d81-cad3-4bc9-bbac-9f3933e1cac3")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "D7" bidirectional
+			(at 117.602 115.316 0)
+			(uuid "39f4deb6-bbe8-4174-93b9-5ffbacb8104a")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "D8" bidirectional
+			(at 117.602 118.364 0)
+			(uuid "82e22149-5580-40ea-9a70-d249b909c7fd")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "GND" passive
+			(at 57.912 102.87 180)
+			(uuid "49a3e85a-4147-4855-a68b-ca14b6336184")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "MISO" output
+			(at 117.602 147.066 0)
+			(uuid "d2596291-1478-4208-80eb-01d07da03bd6")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "MOSI" input
+			(at 117.602 142.494 0)
+			(uuid "3f23570d-fd49-4daf-9a2c-6709e73d3d6c")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "RESET" passive
+			(at 117.602 151.892 0)
+			(uuid "0fb45cd8-f4dd-4d9e-b96f-afc03d672264")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "RX" input
+			(at 57.912 138.938 180)
+			(uuid "26897e1d-e748-4c37-b9fe-aa8d4580fdb3")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SCK" passive
+			(at 57.912 129.794 180)
+			(uuid "bbeaaecf-9964-4d45-a3ed-422bf0b8061a")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SDA" bidirectional
+			(at 57.912 133.858 180)
+			(uuid "57dd77dd-b825-47fd-b343-886ed8b872dc")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "TX" output
+			(at 57.912 142.494 180)
+			(uuid "45331446-2bfb-4594-8d94-63d793714551")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "VCC" passive
+			(at 57.912 107.696 180)
+			(uuid "7b0db720-e8a2-4c40-adb7-3cce5344f1f5")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 			)
 		)
 		(instances
