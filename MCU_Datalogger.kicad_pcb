@@ -88,5 +88,16 @@
 		)
 	)
 	(property "project_name" " MCU Datalogger with memory and clock")
+	(gr_rect
+		(start 35.6 61.75)
+		(end 86.05 91.7)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill no)
+		(layer "Edge.Cuts")
+		(uuid "75ee67e3-33a2-4762-9512-016bf1ec7de5")
+	)
 	(embedded_fonts no)
 )
