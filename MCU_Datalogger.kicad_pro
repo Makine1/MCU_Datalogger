@@ -551,7 +551,7 @@
     "last_paths": {
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "Gerber_MCUdatalogger_4Layers/",
       "specctra_dsn": "",
       "vrml": ""
     },
